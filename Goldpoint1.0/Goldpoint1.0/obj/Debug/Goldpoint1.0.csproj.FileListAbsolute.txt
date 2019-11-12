@@ -1,0 +1,33 @@
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csprojResolveAssemblyReference.cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Properties.Resources.resources
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.GenerateResource.Cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.CoreCompileInputs.cache
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe.config
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe
+F:\vs\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.pdb
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.exe
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.pdb
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.GoldPoint.resources
+F:\vs\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Resource1.resources
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe.config
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.pdb
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.GoldPoint.resources
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Properties.Resources.resources
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Resource1.resources
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.GenerateResource.cache
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.exe
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.pdb
+C:\Users\37675\source\repos\GovernX\AchaoCalculator\Yoshifumi-Jo\PairProgramming\Yoshifumi-Jo\PairProgramming\PairProgramming\.vs\PairProgramming\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csprojAssemblyReference.cache
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe.config
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.exe
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\bin\Debug\Goldpoint1.0.pdb
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.GoldPoint.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Form3.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Form4.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Form5.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Properties.Resources.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1._0.Resource1.resources
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.csproj.GenerateResource.cache
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.exe
+D:\GP 工作室\GoldPoint\Goldpoint1.0\Goldpoint1.0\obj\Debug\Goldpoint1.0.pdb
